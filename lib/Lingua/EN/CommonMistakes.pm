@@ -6,7 +6,7 @@ use warnings FATAL => 'all';
 use warnings::register;
 use Carp;
 
-our $VERSION = 20121219;
+our $VERSION = 20130425;
 
 my %MISTAKES;
 
@@ -398,7 +398,6 @@ analagous analogous
 analizer analyzer
 analogue analog
 analysator analyzer
-analyse analyze
 anfer after
 angainst against
 ang and
@@ -570,9 +569,8 @@ cataloges catalogs
 catalogue catalog
 catalogues catalogs
 catched caught
+cencel cancel
 ceneration generation
-centralise centralize
-centralised centralized
 challange challenge
 challanges challenges
 changable changeable
@@ -708,6 +706,7 @@ controler controller
 controling controlling
 controll control
 controlls controls
+convenenient convenient
 conver convert
 convers converts
 convertor converter
@@ -756,10 +755,6 @@ custimizable customizable
 custimization customization
 custimize customize
 custimized customized
-customisable customizable
-customisation customization
-customise customize
-customised customized
 cutsom custom
 cutt cut
 cutted cut
@@ -784,6 +779,7 @@ defauls defaults
 defered deferred
 definate definite
 definately definitely
+defination definition
 defininition definition
 defininitions definitions
 defintion definition
@@ -797,6 +793,7 @@ delaring declaring
 delemiter delimiter
 deleteing deleting
 demonsrative demonstrative
+deniel denial
 denstiy density
 depencies dependencies
 depency dependency
@@ -845,6 +842,7 @@ determins determines
 detremined determined
 detremine determine
 detremines determines
+detroy destroy
 detructor destructor
 devellop develop
 develloped developed
@@ -856,6 +854,7 @@ developpement development
 developper developer
 developpment development
 deveolpment development
+devevelopment development
 devided divided
 devide divide
 devides divides
@@ -1055,6 +1054,7 @@ experienceing experiencing
 expeted expected
 expet expect
 expets expects
+explaination explanation
 explicitely explicitly
 explicity explicitly
 explict explicit
@@ -1264,7 +1264,6 @@ informatation information
 informatiom information
 informationon information
 informations information
-infos information
 infromation information
 inifity infinity
 inital initial
@@ -1873,6 +1872,7 @@ requeusts requests
 requiere require
 requred required
 requried required
+resaon reason
 resently recently
 resetted reset
 resistent resistant
@@ -2336,11 +2336,18 @@ shouldnt shouldn't
 :british
 acknowledgment acknowledgement
 acknowledgments acknowledgements
+analyze analyse
 analyzes analyses
 behavior behaviour
+centralize centralise
+centralized centralised
 center centre
 color colour
 colors colours
+customizable customisable
+customization customisation
+customize customise
+customized customised
 favor favour
 favorable favourable
 favorite favourite
@@ -2391,13 +2398,20 @@ visualize visualise
 :american
 acknowledgement acknowledgment
 acknowledgements acknowledgments
+analyse analyze
 analyses analyzes
 authorisation authorization
 authorisations authorizations
 behaviour behavior
+centralise centralize
+centralised centralized
 centre center
 colour color
 colours colors
+customisable customizable
+customisation customization
+customise customize
+customised customized
 favour favor
 favourable favorable
 favourite favorite
